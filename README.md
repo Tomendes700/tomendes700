@@ -1,4 +1,4 @@
-Olá sou o zenilton sou fron end atualmente estou aprendendo projetos 
+Olá sou o zenilton sou fron end atualmente estou iniciando meus primeiro projetos com 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt-logo-image>
 
