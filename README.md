@@ -16,6 +16,9 @@ Olá sou o zenilton sou fron end atualmente estou iniciando meus primeiro projet
 [![zenilton stats](https://github-readme-stats.vercel.app/api?username=zenilton)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Zenilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenilton&show_icons=true&theme=radical)
+
+
 
 
 Conecte-comigo:
