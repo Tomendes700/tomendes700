@@ -1,3 +1,5 @@
+### Hi There
+
 Olá sou o zenilton sou fron end atualmente estou iniciando meus primeiro projetos com 
 
 
@@ -13,7 +15,7 @@ Olá sou o zenilton sou fron end atualmente estou iniciando meus primeiro projet
 minhas rede sociais:
 
 
-<a hrf="linkedin.com/in/zenilton-da-silva-mendes-128199227">img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hrf="linkedin.com/in/zenilton-da-silva-mendes-128199227</a>
+<a hrf="linkedin.com/in/zenilton-da-silva-mendes-128199227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <br>
 <br>
    
